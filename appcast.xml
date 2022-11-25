@@ -18,7 +18,7 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.0.0</title>
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
